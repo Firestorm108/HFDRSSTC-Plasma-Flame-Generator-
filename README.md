@@ -5,6 +5,9 @@ A plasma flame generator, or high frequency dual resonant solid state tesla coil
 
 <img width="1057" height="726" alt="image" src="https://github.com/user-attachments/assets/7f7ff703-cc02-4894-9279-a02421a003c3" />
 
+<img width="1300" height="870" alt="image" src="https://github.com/user-attachments/assets/cb451566-520b-4f86-aae6-60bbee9115c5" />
+
+
 <img width="2004" height="833" alt="image" src="https://github.com/user-attachments/assets/920dcf48-60c2-4cb8-83e0-d1919aa11b0b" />
 
 | Item | Price | Link |
